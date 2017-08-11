@@ -16,7 +16,7 @@ FCFA ICON vous permet d'utiliser le symbole du Franc CFA.
 
 HTML
 
-```javascript
+```html
 <!-- fichier css -->
 <link rel="stylesheet" href="css/fcfa-icon.css">
 
